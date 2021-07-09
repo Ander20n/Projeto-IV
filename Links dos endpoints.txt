@@ -1,0 +1,9 @@
+https://2grwg8p5g0.execute-api.us-east-1.amazonaws.com/apiBuscarDados/precipitacao
+
+https://2grwg8p5g0.execute-api.us-east-1.amazonaws.com/apiBuscarDados/pressmin
+
+https://2grwg8p5g0.execute-api.us-east-1.amazonaws.com/apiBuscarDados/tempmax
+
+https://2grwg8p5g0.execute-api.us-east-1.amazonaws.com/apiBuscarDados/tempmin
+
+https://2grwg8p5g0.execute-api.us-east-1.amazonaws.com/apiBuscarDados/velmed
